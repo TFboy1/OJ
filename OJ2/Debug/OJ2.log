@@ -1,0 +1,71 @@
+﻿生成启动时间为 2023/5/15 10:46:20。
+     1>项目“d:\Documents\Visual Studio 2010\Projects\OJ2\OJ2\OJ2.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\OJ2.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt P1474.cpp
+         P1474.cpp
+     1>d:\documents\visual studio 2010\projects\oj2\oj2\p1474.cpp(25): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\documents\visual studio 2010\projects\oj2\oj2\p1474.cpp(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"d:\Documents\Visual Studio 2010\Projects\OJ2\Debug\OJ2.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\OJ2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"d:\Documents\Visual Studio 2010\Projects\OJ2\Debug\OJ2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"d:\Documents\Visual Studio 2010\Projects\OJ2\Debug\OJ2.lib" /MACHINE:X86 Debug\P1005.obj
+         Debug\P1008.obj
+         Debug\P1019.obj
+         Debug\P1021.obj
+         Debug\P1029.obj
+         Debug\P1033.obj
+         Debug\P1034.obj
+         Debug\P1035.obj
+         Debug\P1073.obj
+         Debug\P1042.obj
+         Debug\P1046.obj
+         Debug\P1096.obj
+         Debug\P1102.obj
+         Debug\P1107.obj
+         Debug\P1111.obj
+         Debug\P1114.obj
+         Debug\P1120.obj
+         Debug\P1128.obj
+         Debug\p1134.obj
+         Debug\P1136.obj
+         Debug\P1150.obj
+         Debug\P1199.obj
+         Debug\P1208.obj
+         Debug\P1265.obj
+         Debug\P1268.obj
+         Debug\P1270.obj
+         Debug\P1278.obj
+         Debug\P1293.obj
+         Debug\P1293.obj
+         Debug\P1294.obj
+         Debug\P1295.obj
+         Debug\P1296.obj
+         Debug\P1417.obj
+         Debug\P1474.obj
+         Debug\P1490.obj
+         Debug\P1492.obj
+         Debug\P1560.obj
+         Debug\P1683.obj
+         Debug\P1684.obj
+         Debug\P1685.obj
+         Debug\P1687.obj
+         "Debug\P1710 .obj"
+         Debug\P1711.obj
+         Debug\P1712.obj
+         Debug\P1713.obj
+         LINK : 没有找到 d:\Documents\Visual Studio 2010\Projects\OJ2\Debug\OJ2.exe 或上一个增量链接没有生成它；正在执行完全链接
+     1>Debug\P1293.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+         OJ2.vcxproj -> d:\Documents\Visual Studio 2010\Projects\OJ2\Debug\OJ2.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"d:\Documents\Visual Studio 2010\Projects\OJ2\Debug\OJ2.exe;#1" /manifest Debug\OJ2.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\OJ2.unsuccessfulbuild”。
+         正在对“Debug\OJ2.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“d:\Documents\Visual Studio 2010\Projects\OJ2\OJ2\OJ2.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.84
